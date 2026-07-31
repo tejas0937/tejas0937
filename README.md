@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tejas Thigale 👋
 
-<!--
-**tejas0937/tejas0937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack & AI Developer
 
-Here are some ideas to get you started:
+I build scalable web applications, RESTful APIs, and AI-driven decision-support systems. Currently pursuing an **MCA at MIT World Peace University**, I enjoy combining Java and modern web development with machine learning, computer vision, and GIS analysis. I am a **National Finalist** at the La Trobe x Cisco AI Innovation Sprint in Delhi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building **Anumati**, an AI-powered crowd intelligence and infrastructure assessment platform.
+- 🌱 Exploring intelligent systems, geospatial technology, and production-ready backend architecture.
+- 📫 Reach me at tejsthigale0937@gmail.com
+
+## Featured project
+
+### Anumati: AI-Powered Crowd Intelligence Platform
+
+An end-to-end platform for public-gathering risk assessment and permission workflows. It combines satellite imagery, GIS and infrastructure inputs to estimate crowd capacity, verify safety compliance, and generate risk scores across multiple parameters.
+
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Java · Python · JavaScript |
+| Frameworks | React.js · Spring Boot · Spring MVC · Node.js · Express.js · Django · Microservices · REST API Design |
+| AI / ML | Machine Learning · Generative AI · Computer Vision |
+| Databases | MySQL · PostgreSQL · PostGIS · MongoDB · SQLite · Schema Design |
+| Tools & Practices | Git · Postman · Docker · Agile / Scrum |
+
+## Connect
+
+[GitHub](https://github.com/tejas0937) · [LinkedIn](https://www.linkedin.com/in/tejasthigale0937/) · [Portfolio](https://tejas-portfolio.vercel.app) · [Email](mailto:tejsthigale0937@gmail.com)
