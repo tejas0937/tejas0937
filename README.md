@@ -4,7 +4,7 @@
 
 I build scalable web applications, RESTful APIs, and AI-driven decision-support systems. Currently pursuing an **MCA at MIT World Peace University**, I enjoy combining Java and modern web development with machine learning, computer vision, and GIS analysis. I am a **National Finalist** at the La Trobe x Cisco AI Innovation Sprint in Delhi.
 
-- 🔭 Currently building **Anumati**, an AI-powered crowd intelligence and infrastructure assessment platform.
+- 🔭 Currently building **Vyavastha.ai**, an AI-powered crowd intelligence and infrastructure assessment platform.
 - 🌱 Exploring intelligent systems, geospatial technology, and production-ready backend architecture.
 - 📫 Reach me at tejsthigale0937@gmail.com
 
